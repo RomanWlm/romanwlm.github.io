@@ -1,0 +1,34 @@
+title: ReadWrite.IO
+email: roman.wlm@gmail.com
+description: Roman Wilhelm -  Passionated tehnologist
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "" # the base hostname & protocol for your site, e.g. http://example.com
+twitter_username: XorXn
+github_username:  RomanWlm
+locale: "en-US"
+
+# Build settings
+markdown: kramdown
+
+# theme
+remote_theme: "mmistakes/minimal-mistakes@4.13.0"
+minimal_mistakes_skin: "air" # "default", "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum" "sunrise"
+
+plugins:
+  - jekyll-paginate
+  - jekyll-sitemap
+  - jekyll-gist
+  - jekyll-feed
+  - jemoji
+  - jekyll-include-cache
+# Exclude from processing.
+# The following items will not be processed, by default. Create a custom list
+# to override the default setting.
+# exclude:
+#   - Gemfile
+#   - Gemfile.lock
+#   - node_modules
+#   - vendor/bundle/
+#   - vendor/cache/
+#   - vendor/gems/
+#   - vendor/ruby/
