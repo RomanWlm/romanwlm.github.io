@@ -2,7 +2,7 @@ title: ReadWrite.IO
 email: roman.wlm@gmail.com
 description: Roman Wilhelm -  Passionated tehnologist
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://romanwlm.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: XorXn
 github_username:  RomanWlm
 locale: "en-US"
@@ -21,6 +21,7 @@ plugins:
   - jekyll-feed
   - jemoji
   - jekyll-include-cache
+
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
 # to override the default setting.
