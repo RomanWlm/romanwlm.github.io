@@ -2,7 +2,7 @@ title: ReadWrite.IO
 email: roman.wlm@gmail.com
 description: Roman Wilhelm -  Passionated tehnologist
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://romanwlm.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://romanwlm.github.io/"
 twitter_username: XorXn
 github_username:  RomanWlm
 locale: "en-US"
